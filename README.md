@@ -5,3 +5,4 @@
 ![alt text](https://raw.githubusercontent.com/superzzp/Graphics-Designs-for-CSSS/master/Industry%20Talk%20Poster.jpg)
 
 ![alt text](https://raw.githubusercontent.com/superzzp/Graphics-Designs-for-CSSS/master/Industry%20Talk.jpg)
+ 
