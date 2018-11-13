@@ -1,5 +1,5 @@
 # Graphics-Designs-for-CSSS
-#My graphics designs for social media and websites of Computer Science Student Society @ UBC
+#My graphics designs for social media and websites of Computer Science Student Society @ UBC</br>
 #Created with Adobe Photoshop and Illustrator
 <h2>2018 November, Semi-Annual Meeting</h2>
 
