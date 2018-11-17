@@ -4,9 +4,9 @@
 
 <h2>2018 November, Annual Technical Career Fair</h2>
 
-![alt text](https://raw.githubusercontent.com/superzzp/Graphics-Designs-for-CSSS/master/Technical&Career&Fair&Banner.jpg)
+![alt text](https://raw.githubusercontent.com/superzzp/Graphics-Designs-for-CSSS/master/Technical%Career%Fair%Banner.jpg)
 
-![alt text](https://raw.githubusercontent.com/superzzp/Graphics-Designs-for-CSSS/master/Annual&Technical&Career&Fair&Poster.jpg)
+![alt text](https://raw.githubusercontent.com/superzzp/Graphics-Designs-for-CSSS/master/Annual%Technical%Career%Fair%Poster.jpg)
 
 
 <h2>Semi-Annual Meeting</h2>
