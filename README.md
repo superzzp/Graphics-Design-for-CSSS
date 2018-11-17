@@ -6,6 +6,8 @@
 
 ![alt text](https://raw.githubusercontent.com/superzzp/Graphics-Designs-for-CSSS/master/Technical%20Career%20Fair%20Banner.jpg)
 
+![alt text](https://raw.githubusercontent.com/superzzp/Graphics-Designs-for-CSSS/master/Annual%20Technical%20Career%20Fair%20Poster.jpg)
+
 <h2>Semi-Annual Meeting</h2>
 
 ![alt text](https://raw.githubusercontent.com/superzzp/Graphics-Designs-for-CSSS/master/Semi-Annual%20Meeting-Banner.jpg)
