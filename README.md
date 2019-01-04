@@ -29,3 +29,7 @@
 <h2>CSSS Pub Crawl</h2>
 
 ![alt text](https://raw.githubusercontent.com/superzzp/Graphics-Designs-for-CSSS/master/CSSS%20Pub%20Crawl.jpg)
+
+<h2>2019 January, Welcome Back Breakfast</h2>
+
+![alt text](https://raw.githubusercontent.com/superzzp/Graphics-Designs-for-CSSS/master/Facebook%20Cover%20Welcome%20Breakfast.jpg)
