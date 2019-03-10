@@ -6,9 +6,6 @@
 
 ![alt text](https://raw.githubusercontent.com/superzzp/Graphics-Designs-for-CSSS/master/Annual%20Gala%20Banner.png)
 
-![alt text](https://raw.githubusercontent.com/superzzp/Graphics-Designs-for-CSSS/master/CS%20Annual%20Gala%20Poster.jpg)
-
-
 <h2>2018 November, Annual Technical Career Fair</h2>
 
 ![alt text](https://raw.githubusercontent.com/superzzp/Graphics-Designs-for-CSSS/master/Technical%20Career%20Fair%20Banner.jpg)
